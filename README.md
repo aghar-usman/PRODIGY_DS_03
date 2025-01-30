@@ -21,21 +21,6 @@ This repository contains the implementation of a **Decision Tree Classifier** to
   - `scikit-learn`
   - `graphviz` (for visualizing decision trees)
   
-## 📥 **How to Use:**
-
-1. **Clone the repository**:
-    ```bash
-    git clone YOUR_GITHUB_LINK_HERE
-    ```
-
-2. **Install the required libraries** using `requirements.txt`:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the script or Jupyter Notebook** to reproduce the results:
-    - Simply run `decision_tree_classifier.ipynb` or the Python script.
-
 ---
 
 ## 📊 **Results & Insights:**
